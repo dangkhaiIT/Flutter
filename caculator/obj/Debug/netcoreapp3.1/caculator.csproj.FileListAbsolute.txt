@@ -1,0 +1,16 @@
+C:\Users\nonam\source\repos\caculator\caculator\bin\Debug\netcoreapp3.1\caculator.exe
+C:\Users\nonam\source\repos\caculator\caculator\bin\Debug\netcoreapp3.1\caculator.deps.json
+C:\Users\nonam\source\repos\caculator\caculator\bin\Debug\netcoreapp3.1\caculator.runtimeconfig.json
+C:\Users\nonam\source\repos\caculator\caculator\bin\Debug\netcoreapp3.1\caculator.runtimeconfig.dev.json
+C:\Users\nonam\source\repos\caculator\caculator\bin\Debug\netcoreapp3.1\caculator.dll
+C:\Users\nonam\source\repos\caculator\caculator\bin\Debug\netcoreapp3.1\caculator.pdb
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.csproj.AssemblyReference.cache
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.Form1.resources
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.csproj.GenerateResource.cache
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.AssemblyInfoInputs.cache
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.AssemblyInfo.cs
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.dll
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.pdb
+C:\Users\nonam\source\repos\caculator\caculator\obj\Debug\netcoreapp3.1\caculator.genruntimeconfig.cache
